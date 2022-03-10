@@ -888,7 +888,7 @@ body {
 .faq .content {
   display: -ms-grid;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(373px, 1fr));
   gap: 40px;
   margin-top: 70px;
 }
