@@ -1169,11 +1169,7 @@ body {
   margin-bottom: 30px;
 }
 .footer .icon i {
-  border: 1px solid #ddd;
-  width: 30px;
-  height: 30px;
-  line-height: 1.8;
-  border-radius: 50%;
+  font-size:22px; 
   margin-right: 20px;
 }
 .footer .copyright {
